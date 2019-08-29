@@ -47,7 +47,7 @@ body{
     width: 50%;
     float: left;
 }
-#imagen img {
+img {
     margin: 0 auto;
     display: block;
 }
@@ -98,4 +98,7 @@ body{
     padding: 20px 100px 70px 100px;
     color: white;
     text-align: center;
-  }
+}
+.botones{
+    margin: 0 auto;
+}
